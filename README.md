@@ -1,0 +1,1 @@
+Fonctionne en local (XAMPP)
